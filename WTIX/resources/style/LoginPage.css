@@ -1,0 +1,32 @@
+.root{
+	-fx-font-family: "Open Sans";
+}
+
+.layout{
+	-fx-spacing:10;
+	-fx-background-color:"red";
+}
+
+.leftSegment {
+    -fx-background-color: "white";
+    -fx-border-radius: 40px;
+    -fx-background-radius:15px;
+    
+    -fx-pref-width:550px;
+    -fx-max-height:600px;
+    
+    -fx-alignment:center;
+}
+
+.title{
+    -fx-font-size: 3em;
+    -fx-font-weight: bold;
+    -fx-text-fill: "black";
+}
+
+.subtitle{
+	-fx-font-size: 1.5em;
+	-fx-text-fill: "#939393";
+}
+
+
